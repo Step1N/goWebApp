@@ -1,0 +1,6 @@
+AppName: addAPI
+  type: web
+  version: 1.0
+
+  package: linux/window
+  output: out
